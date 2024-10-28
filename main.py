@@ -1,3 +1,3 @@
-print("Summ a + b please:\n")
-a, b = map(int, input().split())
-print(a + b)
+print("Summ a + b + c please:\n")
+a, b, c = map(int, input().split())
+print(a + b + c)
